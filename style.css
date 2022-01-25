@@ -527,7 +527,7 @@ body{
 }
 
 /* .sec5_1{
-    background-image: url(../bootstrap_Project/image/ia_100000113.png);
+    background-image: url(./image/ia_100000113.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -878,7 +878,7 @@ body{
 
 .about_1{
     height: 380px;
-    background-image: url(../bootstrap_Project/image/about/ia_100000060.jpg);
+    background-image: url(./image/about/ia_100000060.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1655,7 +1655,7 @@ body{
 
 .contact_1{
     height: 380px;
-    background-image: url(../bootstrap_Project/image/contact/ia_100000028.jpg);
+    background-image: url(./image/contact/ia_100000028.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -1839,7 +1839,7 @@ body{
     }
 
     .resp{
-        background-image: url(../bootstrap_Project/image/ia_100000117.jpg);
+        background-image: url(./image/ia_100000117.jpg);
         height: 300px;
 
     }
@@ -1941,7 +1941,7 @@ body{
 
     .about_4{
         height: 450px;
-        background-image: url(../bootstrap_Project/image/about/ia_100000061.jpg);
+        background-image: url(./image/about/ia_100000061.jpg);
     }
 
     .insta_img_ab5 {
